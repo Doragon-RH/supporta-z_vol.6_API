@@ -1,4 +1,4 @@
-# hackathon_vol.6_api
+## hackathon_vol.6_api
 
 こちらはTODOアプリのバックエンド部分となります。
 共同開発者：shirasu-48
@@ -7,7 +7,7 @@ shirasu-48：chatGPTのレスポンスを返すAPI作成、フロントエンド
 フロント部分は、https://github.com/nepp-tumsat/hackathon_vol.6 を参照してください。
 ChatGPTのAPIkeyは、載せておりませんので、文章生成はできなくなっております。(実行する場合には、api/routers内にてapikey.pyを作成し、key=に続けて入力してください)
 
-#アプリの実行手順
+##アプリの実行手順
 cd コマンドでapiに移動し、以下の順番でコードを実行する
 
 $docker-compose build
