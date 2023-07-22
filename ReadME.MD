@@ -1,7 +1,7 @@
 # hackathon_vol.6_api
 
 ## こちらはTODOアプリのバックエンド部分となります。
-## フロント部分は、hackathon_vol.6を参照してください
+## フロント部分は、https://github.com/nepp-tumsat/hackathon_vol.6 を参照してください
 ## ChatGPTのAPIkeyは、載せておりませんので、文章生成はできなくなっております。(実行する場合には、api/routers内にてapikey.pyを作成し、key=に続けて入力してください)
 
 ## cd コマンドでapiに移動し、以下の順番でコードを実行する
