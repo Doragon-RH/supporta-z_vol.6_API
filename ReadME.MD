@@ -1,7 +1,10 @@
 # hackathon_vol.6_api
 
 ## こちらはTODOアプリのバックエンド部分となります。
-## フロント部分は、https://github.com/nepp-tumsat/hackathon_vol.6 を参照してください
+## 共同開発者：shirasu-48
+## 担当部分：Doragon-RH：DB連携、やること、やったことを取得、追加、変更、削除するAPI作成
+## shirasu-48：chatGPTのレスポンスを返すAPI作成、フロントエンドからアクセスできるように、HTTPメソッドの使用許可設定
+## フロント部分は、https://github.com/nepp-tumsat/hackathon_vol.6 を参照してください。
 ## ChatGPTのAPIkeyは、載せておりませんので、文章生成はできなくなっております。(実行する場合には、api/routers内にてapikey.pyを作成し、key=に続けて入力してください)
 
 ## cd コマンドでapiに移動し、以下の順番でコードを実行する
