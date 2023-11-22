@@ -11,6 +11,8 @@ shirasu-48：chatGPTのレスポンスを返すAPI作成、フロントエンド
 
 ChatGPTのAPIkeyは、載せておりませんので、文章生成はできなくなっております。(実行する場合には、api/routers内にてapikey.pyを作成し、key=に続けて入力してください)
 
+こちらは、https://github.com/nepp-tumsat/hackathon_vol.6_apiからコピーしたものとなります。
+
 ## アプリの実行手順
 cd コマンドでapiに移動し、以下の順番でコードを実行する
 
